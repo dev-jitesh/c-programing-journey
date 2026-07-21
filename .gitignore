@@ -1,0 +1,13 @@
+# Compiled executables
+*.exe
+*.out
+
+# Object files
+*.out
+*.obj
+
+# log files
+*.log
+
+# VS Code
+.vscode/

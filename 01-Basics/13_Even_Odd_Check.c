@@ -1,5 +1,5 @@
 /*
-Project : If Else Statement
+Project : Even Odd Check
 Author : Jitesh
 */
 
